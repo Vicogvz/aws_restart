@@ -1,2 +1,2 @@
 # aws_restart
-Repositorio de archivoc aprendizaje Python
+Repositorio de archivos de aprendizaje Python
