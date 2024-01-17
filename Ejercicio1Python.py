@@ -10,17 +10,17 @@ while numPositivo < 0:
       print("El número que ingresaste {numPositivo} es negativo, intenta de nuevo")
 
 
-#vFactorial=1
+vFactorial=1
 
-# if numPositivo == 0:
-#     print(f"El factorial de 0 es 1:")
-# elif numPositivo == 1:
-#     print(f"El factorial de 1 es {numPositivo}:")
-# else:
-#     for i in range(1,numPositivo+1):
-#         print(f"Var i: {i}")
-#         vFactorial = i  * vFactorial
-#         print(f"Factorial: {vFactorial}")
+ if numPositivo == 0:
+     print(f"El factorial de 0 es 1:")
+ elif numPositivo == 1:
+     print(f"El factorial de 1 es {numPositivo}:")
+ else:
+     for i in range(1,numPositivo+1):
+         print(f"Var i: {i}")
+         vFactorial = i  * vFactorial
+         print(f"Factorial: {vFactorial}")
 
 
 """
